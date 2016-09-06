@@ -1,0 +1,101 @@
+#header {
+    height: 50px;
+    width: o auto;
+    text-align: center;
+}
+h1  {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 38px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+    color: dimgray;
+}
+h2  {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: dimgray;
+}
+.main   {
+    height:320px;
+    width:320px;
+    position:relative;
+    background-color: #e7eaee;
+    margin:0 auto;
+}
+#input  {
+    height: 30px;
+    width: 200px;
+    margin: 200px 60px 60px 60px;
+    position: relative;
+}
+#button {
+    height: 30px;
+    width: 205px;
+    position: absolute;
+    margin: -55px 60px -20px 60px;
+    background-color: cornflowerblue;
+    color:white
+}
+div p   {
+    color:cornflowerblue;
+    font-family: sans-serif;
+    text-align: right;
+    position: absolute;
+    font-size: 13px;
+    padding-right: 55px;
+    margin: -20px 0px 0px 200px; 
+}
+p   {
+    color: cornflowerblue;
+    font-family: sans-serif;
+    text-align: center;
+    
+}
+h3  {
+    font-family: sans-serif;
+    text-align: center;
+    color: dimgray;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 30px;
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    color: dimgray;
+    font-size: 13px;
+    font-weight: lighter;
+    text-align: left;
+    
+}
+.slikazafooter  {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 30px;
+    text-align: right;
+}
+.circle {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px; 
+    position: absolute;
+    margin: 50px 20px 30px 110px;
+    padding-right: 10px;
+    align-items: center;
+}
+a  {
+    text-decoration: none;
+    color:cornflowerblue;
+}
+a:hover {
+    text-decoration: underline;
+}
